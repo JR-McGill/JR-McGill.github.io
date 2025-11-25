@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-CA"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Jeremy J. J. Rappel"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://JR-McGill.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,18 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Jeremy J. J. Rappel"
+  pronouns         : "he/him"  
+  bio              : "Researcher focused on radicalization"
+  location         : "Montréal"
+  employer         : "McGill University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jeremy.rappel@mail.mcgill.ca" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=lkncyKQAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"

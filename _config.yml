@@ -11,7 +11,7 @@ locale                   : "en-CA"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Jeremy J. J. Rappel"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jeremy J. J. Rappel"
 description              : &description "Academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://JR-McGill.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "JeremyFace.jpg"
   name             : "Jeremy J. J. Rappel"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Researcher focused on radicalization"
   location         : "Montréal"
   employer         : "McGill University"
@@ -104,7 +104,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "dark" (default), "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"

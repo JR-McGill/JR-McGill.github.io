@@ -13,7 +13,7 @@ My research focuses on the role of psychological needs (e.g. community, competen
 
 When I'm not doing research, I can be found baking, crocheting, and teaching 16th century Italian sword fighting.
 
-You can find my CV [here!](RappelVita.pdf)
+You can find my CV [here!](files/RappelVita.pdf)
 
 My Research
 ======

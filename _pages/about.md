@@ -18,23 +18,9 @@ You can find my CV [here!](files/RappelVita.pdf)
 My Research
 ======
 
-[Basic Psychological Needs Are Associated With Engagement and Hate Term Use in Extremist Chatrooms](https://doi.org/10.1177/19485506251389642)
------
+Rappel, J. J., Vachon, D. D., & Hehman, E. (2025). Basic Psychological Needs Are Associated With Engagement and Hate Term Use in Extremist Chatrooms. Social Psychological and Personality Science. [https://doi.org/10.1177/19485506251389642](https://doi.org/10.1177/19485506251389642)
 
-Published in <i> Social Psychological and Personality Science </i>, 2025
-
-About the paper.
-
-
-[The Role of Basic Psychological Needs in Right-Wing Extremism Risk Among American Conservatives](https://doi.org/10.1080/09546553.2023.2178305)
------
-
-Published in <i> Terrorism and Political Violence </i>, 2024
-
-About the paper.
-
-
-
+Rappel, J. J., & Vachon, D. D. (2024). The role of basic psychological needs in right-wing extremism risk among American conservatives. Terrorism and Political Violence, 36(4), 533-551. [https://doi.org/10.1080/09546553.2023.2178305] (https://doi.org/10.1080/09546553.2023.2178305)
 
 <!--- Teaching
 ------

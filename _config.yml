@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-CA"
-site_theme               : "default_dark" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Jeremy J. J. Rappel"
 title_separator          : "-"
 name                     : &name "Jeremy J. J. Rappel"

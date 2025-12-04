@@ -5,8 +5,8 @@ permalink: /code/
 author_profile: true
 ---
 
-SEM Deep Dive
-======
-This is an .r file that manually implements the matrix algrebra for an SEM analysis. It's intented for those who wish to better understand how these models function on the backend. [/files/SEM_Demonstration.r](You can access it here.)
+{% include base_path %}
 
-
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}

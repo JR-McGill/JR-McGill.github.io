@@ -1,3 +1,9 @@
+---
+permalink: /teaching/
+title: "Teaching"
+---
+
+
 {% include base_path %}
 
 ## Teaching Internship - Introduction to Social Psychology (Winter 2026)

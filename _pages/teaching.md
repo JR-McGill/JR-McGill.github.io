@@ -8,11 +8,11 @@ title: "Teaching"
 
 ## Teaching Internship - Introduction to Social Psychology (Winter 2026)
 
-This course is a survey of the major frameworks and historical developments in social psychology. My responsibilities as a teaching intern focused on delivering lectures on aggression and close relationships, and creating evaluations.
+This course is a survey of the major frameworks and historical developments in social psychology. My responsibilities as a teaching intern focused on designing and delivering lectures on aggression and close relationships, and creating evaluations.
 
 ## Teaching Internship - Statistics for Experimental Design (Winter 2025)
 
-This course is covers applied statistics for the social sciences, including between-groups Analayis of Variance (ANOVA), repeated measures ANOVA, interaction terms, and linear regression. Internship responsibilities included giving lectures, resource development, and creating evaluations. 
+This course covers applied statistics for the social sciences, including between-groups Analysis of Variance (ANOVA), repeated measures ANOVA, interaction terms, and linear regression. Internship responsibilities included designing and giving lectures on two-way and repeated-measures ANOVA, as well as developing supplementary materials. 
 
 ## Stats Help Desk (2025-2026)
 
@@ -34,7 +34,6 @@ The Computational and Data Systems Institute is an organization within McGill Un
   <li> Statistical Network Analysis</li>
   <li> Structural Equation Modeling </li>
 </ul>
-
 
 ## Teaching Assistant - McGill University Department of Psychology (2020-2026)
 

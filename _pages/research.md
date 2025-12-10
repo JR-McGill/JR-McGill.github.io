@@ -5,13 +5,9 @@ title: "Research"
 
 My research explores why people are drawn to extremist groups and ideologies, taking a perspective informed by motivational psychology. Specifically, Self-Determination Theory posits that we are all driven to satisfy three basic psychological needs: Competence, Relatedness, and Autonomy. 
 
-These three needs align well with research on what drives people to join extremist groups, who often feel isolated and listless, but find a sense of community and purpose among extreme peers. Despite this theoretical link, research explicitly connecting these needs to extremism remains limited.
+These three needs align well with research on what drives people to join extremist groups, who often feel isolated and listless, but find a sense of community and purpose among extreme peers. Despite this theoretical link, research explicitly connecting these needs to extremism remains limited. I seek to fill this research gap through a mix quantitative longitudinal studies and large-scale natural language processing designs. 
 
-I seek to fill this research gap through a mix quantitative longitudinal studies and large-scale natural language processing designs. My approach includes investigating the needs-extremism  link among those who are not yet radicalized, but may be considered at higher risk, as well as those who already operate in extremist milieus. 
-
-My hope is that by building a quantitative evidence base for these needs, we could leverage the decades of research and thousands of studies on psychological needs to help inform and supplement prevention and deradicalization programs. 
-
-My published research can be found below.
+My hope is that by building a quantitative evidence base for these needs, we could leverage the decades of research and thousands of studies on psychological needs to help inform prevention and deradicalization programs. 
 
 {% include base_path %}
 

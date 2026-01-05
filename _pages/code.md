@@ -3,7 +3,6 @@ permalink: /code/
 title: "Code"
 ---
 
-{% include base_path %}
 
 ## SEM Deep Dive
 

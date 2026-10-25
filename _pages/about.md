@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Jeremy J. J. Rappel"
+title: "Jeremy J. J. Rappel, PhD."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi - I'm Jeremy, a 6th-year PhD. Candidate in the Department of Psychology at McGill University (Montréal).
+Hi - I'm Jeremy! I recently competed my PhD. with the Department of Psychology at McGill University (Montréal).
 
 My research focuses on the role of psychological needs (e.g. community, competence, self-image) in extremist radicalization. I leverage longitudinal analysis techniques and natural language processing to understand how a lack of these needs makes individuals susceptible to extreme ideologies, and how satisfaction of these needs retains individuals in extremist milieus.
 
@@ -18,9 +18,11 @@ You can find my CV [here!](files/RappelVita.pdf)
 My Research
 ======
 
-Rappel, J. J., Vachon, D. D., & Hehman, E. (2025). Basic Psychological Needs Are Associated With Engagement and Hate Term Use in Extremist Chatrooms. Social Psychological and Personality Science. [https://doi.org/10.1177/19485506251389642](https://doi.org/10.1177/19485506251389642)
+Rappel, J. J. J., & Hehman, E. (2026). Extremism and psychological needs show between- but not within-subjects relationships across the 2024 U.S. election. Psychology of Violence. [https://doi.org/10.1037/vio0000721](https://doi.org/10.1037/vio0000721)
 
-Rappel, J. J., & Vachon, D. D. (2024). The role of basic psychological needs in right-wing extremism risk among American conservatives. Terrorism and Political Violence, 36(4), 533-551. [https://doi.org/10.1080/09546553.2023.2178305](https://doi.org/10.1080/09546553.2023.2178305)
+Rappel, J. J. J., Vachon, D. D., & Hehman, E. (2026). Basic Psychological Needs Are Associated With Engagement and Hate Term Use in Extremist Chatrooms. Social Psychological and Personality Science, 17(6), 726-736. [https://doi.org/10.1177/19485506251389642](https://doi.org/10.1177/19485506251389642)
+
+Rappel, J. J. J., & Vachon, D. D. (2024). The role of basic psychological needs in right-wing extremism risk among American conservatives. Terrorism and Political Violence, 36(4), 533-551. [https://doi.org/10.1080/09546553.2023.2178305](https://doi.org/10.1080/09546553.2023.2178305)
 
 <!--- Teaching
 ------

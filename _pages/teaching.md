@@ -6,6 +6,10 @@ title: "Teaching"
 
 {% include base_path %}
 
+## The Interactive Statistics Project (Ongoing)
+
+The Interactive Statistics Project is a collection of interactive learning modules designed to help students understand traditionally difficult-to-grasp concepts in introductory statistics. You can view project's active modules [here.](https://falkcarl.github.io/intstats/)
+
 ## Teaching Internship - Introduction to Social Psychology (Winter 2026)
 
 This course is a survey of the major frameworks and historical developments in social psychology. My responsibilities as a teaching intern focused on designing and delivering lectures on aggression and close relationships, and creating evaluations.
